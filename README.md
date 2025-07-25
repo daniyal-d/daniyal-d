@@ -5,5 +5,5 @@ I’m a double‑major in **Computer Science** and **Philosophy** at **UT Aust
 I enjoy building projectsthat solve real-world problems and discussing the impact technology has on society.
 
 ### Contact Me
-📧 [Email](mailto:daniyaldawood@utexas.edu)
-💼 [LinkedIn](https://linkedin.com/in/daniyal-dawood)
+- 📧 [Email](mailto:daniyaldawood@utexas.edu)
+- 💼 [LinkedIn](https://linkedin.com/in/daniyal-dawood)
